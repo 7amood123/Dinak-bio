@@ -9,7 +9,7 @@
 }
 
 header {
-    background-color: transparent; /* Green */
+    background-color: transparent;
     text-align: center;
     width: 100%;
     position: fixed;
@@ -208,8 +208,16 @@ footer {
         padding: 12px 20px;
     }
 
+    .logo {
+        margin-left: 40px;
+    }
+
     .navigation a{
         padding-left: 10px;
+    }
+
+    .main {
+        background-position-x: right;
     }
 
     .title, .title2{
@@ -251,4 +259,5 @@ footer {
     body{
         font-size: 10px;
     }
+
 }
