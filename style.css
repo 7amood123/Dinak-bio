@@ -217,7 +217,7 @@ footer {
     }
 
     .main {
-        background-position-x: center;
+        background-position-x: top left;
     }
 
     .title, .title2{
